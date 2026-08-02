@@ -673,7 +673,7 @@ If this project contributes to your research or inspires your work, please consi
 ```bibtex
 @misc{neuralmemory,
   title   = {Neural Memory},
-  author  = {Giovanna},
+  author  = {gdTech},
   year    = {2026},
   note    = {Research framework for cognitive memory systems},
   url     = {https://github.com/gdTech1/Neural-Memory}
