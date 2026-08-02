@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E1B4B,40:312E81,75:6D28D9,100:C4B5FD&text=Neural%20Memory&fontSize=60&fontColor=FFFFFF&font=JetBrains%20Mono&animation=fadeIn&desc=A%20Cognitive%20Memory%20Framework%20for%20Artificial%20Intelligence&descSize=20&descAlignY=64"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,35:312E81,70:6D28D9,100:C4B5FD&text=Neural%20Memory&fontColor=FFFFFF&font=JetBrains%20Mono&fontSize=58&fontAlignY=40&desc=A%20Cognitive%20Memory%20Framework%20for%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-</div>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=3000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cognitive+Memory+Framework;Inspired+by+Neuroscience;Artificial+Intelligence+Research;Modeling+Experiences+Instead+of+Storage"/>
 
